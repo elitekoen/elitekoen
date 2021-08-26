@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding discord bots, and I want to help developing apps
 - 🌱 I’m currently learning javascript, and I am willing to learn anything else for fun
 - 💞️ I’m looking to collaborate on Applications, I'm new but I would like to help in any way I can, and I would like to learn new things
-- 📫 How to reach me on my disocrd itzmarcus#0071
+- 📫 How to reach me on my disocrd itzmarc#0071
